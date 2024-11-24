@@ -1,0 +1,32 @@
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : awd
+User Password : awd
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : yugyg
+User Password : ygy8g
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : as
+User Password : as
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : a
+User Password : a
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : \z
+User Password : \x
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : sm
+User Password : asd
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : ad
+User Password : asd
+-----------------BD---------------------------
+BD Ticket USER SIGNUP DATA
+User Email or Phone   : as
+User Password : as
+-----------------BD---------------------------
